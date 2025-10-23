@@ -170,3 +170,4 @@ else
     echo "- Missing files: Re-run setup.sh"
     exit 1
 fi
+;This project is done by Firanmit Megersa
