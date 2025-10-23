@@ -196,3 +196,4 @@ Audio files: /var/lib/asterisk/sounds/custom/
 Logs: /var/log/asterisk/
 Support
 For issues, check the Asterisk documentation at https://www.asterisk.org
+THIS PROJECT IS ONLY FOR TESTING LOCALLY, MADE BY FIRANMIT MEGERSA. IT Technician at INNOVII
