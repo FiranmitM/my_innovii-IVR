@@ -102,3 +102,7 @@ echo ""
 echo "For detailed instructions, see README.md"
 echo "For audio file guide, see AUDIO_FILES_GUIDE.md"
 echo "=========================================="
+
+;this projectis developed by Firanmit Megersa, use the following contact contact to contact him: 
+;email: megersafiranmit@gmail.com
+;telegram: @lovecisco
