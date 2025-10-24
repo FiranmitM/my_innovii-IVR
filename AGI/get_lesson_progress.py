@@ -91,3 +91,11 @@ if __name__ == '__main__':
         service_type = 'beauty'
 
     sys.exit(get_lesson_progress(caller_number, service_type))
+
+# ========================================================
+# INNOVII Asterisk IVR System
+# Copyright (c) 2025 Firanmit Megersa Feyisa
+# Email: megersafiranmit@gmail.com
+# All rights reserved.
+# Owner: Firanmit Megersa Feyisa
+# ========================================================
