@@ -29,3 +29,37 @@ try:
     
 except Exception as e:
     print("❌ Database connection failed:", e)
+
+
+# INNOVII IVR System – Copyright & Ownership
+
+**Owner:** Firanmit Megersa Feyisa  
+**Email:** megersafiranmit@gmail.com  
+
+**Project:** INNOVII IVR System – Complete Asterisk IVR with MySQL Integration  
+**Version:** 1.0  
+**Date:** October 2025  
+
+---
+
+## Copyright Notice
+
+© 2025 Firanmit Megersa Feyisa. All rights reserved.  
+
+This project, including all configuration files, AGI scripts, automation scripts, documentation, and audio files, is the intellectual property of Firanmit Megersa Feyisa.  
+
+You may **not** copy, distribute, or modify this project without explicit permission from the owner.  
+
+---
+
+## Attribution in Code and Config Files
+
+It is recommended to add the following header to all major files:
+
+```text
+# ========================================================
+# INNOVII IVR System
+# Copyright (c) 2025 Firanmit Megersa Feyisa
+# Email: megersafiranmit@gmail.com
+# All rights reserved.
+# ========================================================
