@@ -94,3 +94,11 @@ if __name__ == '__main__':
         caller_number = agi.env.get('agi_callerid', 'unknown')
 
     sys.exit(end_call(caller_number))
+
+# ========================================================
+# INNOVII Asterisk IVR System
+# Copyright (c) 2025 Firanmit Megersa Feyisa
+# Email: megersafiranmit@gmail.com
+# All rights reserved.
+# Owner: Firanmit Megersa Feyisa
+# ========================================================
