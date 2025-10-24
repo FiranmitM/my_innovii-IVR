@@ -1,3 +1,4 @@
+
 INNOVII IVR System - Complete File Manifest
 📦 Package Contents
 This package contains all files needed to deploy a complete Asterisk IVR system with MySQL integration for INNOVII company.
@@ -351,3 +352,38 @@ Your system is ready when:
 Package Version: 1.0 Created For: INNOVII Company Target Platform: Linux (Ubuntu/Debian) Last Updated: October 2025
 
 Thank you for choosing this IVR system! For best results, follow the documentation carefully. Good luck with your deployment! 🚀
+
+
+# INNOVII IVR System – Copyright & Ownership
+
+**Owner:** Firanmit Megersa Feyisa  
+**Email:** megersafiranmit@gmail.com  
+
+**Project:** INNOVII IVR System – Complete Asterisk IVR with MySQL Integration  
+**Version:** 1.0  
+**Date:** October 2025  
+
+---
+
+## Copyright Notice
+
+© 2025 Firanmit Megersa Feyisa. All rights reserved.  
+
+This project, including all configuration files, AGI scripts, automation scripts, documentation, and audio files, is the intellectual property of Firanmit Megersa Feyisa.  
+
+You may **not** copy, distribute, or modify this project without explicit permission from the owner.  
+
+---
+
+## Attribution in Code and Config Files
+
+It is recommended to add the following header to all major files:
+
+```text
+# ========================================================
+# INNOVII IVR System
+# Copyright (c) 2025 Firanmit Megersa Feyisa
+# Email: megersafiranmit@gmail.com
+# All rights reserved.
+# ========================================================
+
