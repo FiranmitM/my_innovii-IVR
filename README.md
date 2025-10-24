@@ -196,4 +196,37 @@ Audio files: /var/lib/asterisk/sounds/custom/
 Logs: /var/log/asterisk/
 Support
 For issues, check the Asterisk documentation at https://www.asterisk.org
-THIS PROJECT IS ONLY FOR TESTING LOCALLY, MADE BY FIRANMIT MEGERSA. IT Technician at INNOVII
+
+# Ownership & Copyright
+
+**Owner:** Firanmit Megersa Feyisa  
+**Email:** megersafiranmit@gmail.com  
+**Role:** IT Technician, INNOVII Company  
+**Project:** INNOVII Asterisk IVR System – Complete Installation  
+**Version:** 1.0  
+**Date:** October 2025  
+
+---
+
+## Copyright Notice
+
+© 2025 Firanmit Megersa Feyisa. All rights reserved.  
+
+This Asterisk IVR system, including all configuration files, AGI Python scripts, automation scripts, documentation, and audio files, is the **intellectual property of Firanmit Megersa Feyisa**.  
+
+You may **not** copy, redistribute, modify, or use this project without the explicit permission of the owner.  
+
+---
+
+## Integration in Files
+
+It is recommended to add the following header to all scripts, config files, and documentation:
+
+```text
+# ========================================================
+# INNOVII Asterisk IVR System
+# Copyright (c) 2025 Firanmit Megersa Feyisa
+# Email: megersafiranmit@gmail.com
+# All rights reserved.
+# Owner: Firanmit Megersa Feyisa
+# ========================================================
