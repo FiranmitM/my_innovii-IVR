@@ -105,3 +105,11 @@ if __name__ == '__main__':
         language = 'amharic'
 
     sys.exit(log_call(caller_number, menu_location, language))
+
+# ========================================================
+# INNOVII Asterisk IVR System
+# Copyright (c) 2025 Firanmit Megersa Feyisa
+# Email: megersafiranmit@gmail.com
+# All rights reserved.
+# Owner: Firanmit Megersa Feyisa
+# ========================================================
